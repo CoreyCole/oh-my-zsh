@@ -1,6 +1,5 @@
 main() {
-  # Use colors, but only if connected to a terminal, and that terminal
-  # supports them.
+  # Use colors
   RED="$(tput setaf 1)"
   GREEN="$(tput setaf 2)"
   YELLOW="$(tput setaf 3)"
